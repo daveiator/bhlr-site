@@ -1,0 +1,22 @@
+{
+  "name": "bhlr",
+  "version": "1.0.0",
+  "description": "Source code for the bhlr site",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveiator/bhlr-site.git"
+  },
+  "author": "David Bühler",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daveiator/bhlr-site/issues"
+  },
+  "homepage": "https://github.com/daveiator/bhlr-site#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
