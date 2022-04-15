@@ -1,6 +1,6 @@
 FROM node:latest
 
-WORKDIR /app
+WORKDIR /opt/app
 
 #Install dependencies
 COPY package*.json ./
